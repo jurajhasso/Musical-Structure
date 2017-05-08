@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musical-Structure</string>
+    <string name="main">This is the main screen of the app, user can click on whether he wants to return to the activity playing the current song, display a list of all songs/albums or choose to search for songs/albums</string>
+    <string name="now_playing">This activity displays the song being currently played by the user. From this activity the user would be able to switch to the next/previous song</string>
+    <string name="song">This activity displays a list of songs, the user will see a bttton to play each song</string>
+    <string name="album">This activity would let the user select an album and play all the songs in it</string>
+    <string name="search">In this activity user could search for songs/albums and play those based on the search results</string>
+    <string name="play">Play</string>
+
+</resources>
